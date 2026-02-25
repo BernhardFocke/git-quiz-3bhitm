@@ -36,9 +36,17 @@ Du arbeitest strukturiert mit Branches, führst saubere Commits durch und kannst
 5. **GIT-History analysieren (4 Punkte)**
 Schaue dir nun die komplette Commit-History an. Denn im aktuellen Projekt funktioniert die Navigation nicht korrekt. Finde heraus, in welchem Commit der Fehler eingeführt werde. Beschreibe kurz / gibt die Commit-ID an. Mit welchem Befehl hast du dies herausgefunden? Wie viele Commits wurden insgesamt in diesem Projekt erstellt?
 
+In cleanUp code ist ein Fehler aufgetreten der die links für die Navigation entfernt.
+
+db8992f5f4a93be4face083f50619a81cefcf928
+
+herausgefunden durch git history (VS Code extention).
+
+Es wurden 7 commits vor mir und 9 nach mir ausgeführt.
+
 ----------------------- 
 
-Du hast das Quiz nun erfolgreich abgeschlossen. Gib HIER den Link zu deinem geforkten Repository an: _____________________
+Du hast das Quiz nun erfolgreich abgeschlossen. Gib HIER den Link zu deinem geforkten Repository an: https://github.com/BernhardFocke/git-quiz-3bhitm.git
 
 Gib anschließend dieses ANGABE-File bei MOODLE ab!
 
